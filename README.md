@@ -127,7 +127,8 @@ int main() {
     return 0;
 }
 Output
-image
+![image](https://github.com/user-attachments/assets/137217cd-e5c1-482f-8c96-ebbde6f8df14)
+
 
 Conclusion
 Thus we learned how to manipulate bits in binary numbers by setting and resetting individual bits
