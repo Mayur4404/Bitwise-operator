@@ -64,7 +64,9 @@ int main() {
     cout << "Right Shift of A: " << (binary_a >> 1) << endl;
     return 0;
 }
-Output
+Output!
+![image](https://github.com/user-attachments/assets/a51c0fa6-d907-4ea5-9c27-74b6f65b1f67)
+
 image
 
 Conclusion
